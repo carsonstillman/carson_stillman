@@ -213,8 +213,8 @@ publications:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
-      - title: format('"Get in Researchers; We're Measuring Reproducibility"{0} A Reproducibility Study of Machine Learning Papers in Tier 1 Security Conferences pending', ':')
-        link: "dl.acm.org/doi/10.1145/3576915.3623130"
+      - title: ''Get in Researchers; We're Measuring Reproducibility'' A Reproducibility Study of Machine Learning Papers in Tier 1 Security Conferences
+        link: "https://dl.acm.org/doi/10.1145/3576915.3623130"
         authors: Daniel Olszewski, Allison Lu, Carson Stillman, Kevin Warren, Cole Kitroser, Alejandro Pascual, Divyajyoti Ukirde, Kevin Butler, and Patrick Traynor
         conference: ACM CCS, 2023
 
