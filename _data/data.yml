@@ -218,10 +218,10 @@ publications:
         authors: Daniel Olszewski, Allison Lu, Carson Stillman, Kevin Warren, Cole Kitroser, Alejandro Pascual, Divyajyoti Ukirde, Kevin Butler, and Patrick Traynor
         conference: ACM CCS, 2023
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "The Elephant in the Room: Software and Hardware Security Vulnerabilities of Portable Sequencing Devices (Talk/Poster)"
         link: "publications/elephant.pdf"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: Carson Stillman, Jonathan Bravo, Christina Boucher, Sara Rampazzi
+        conference: "Intelligent Systems for Molecular Biology, 2024"
 
 # skills:
 #     title: Skills &amp; Proficiency
