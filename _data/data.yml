@@ -219,7 +219,7 @@ publications:
         conference: ACM CCS, 2023
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "elephant_pub.html"
+        link: "publications/elephant.pdf"
         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
