@@ -1,5 +1,1 @@
-layout: page
-title: "The Elephant in the Room: Software and Hardware Security Vulnerabilities of Portable Sequencing Devices"
-filename: elephant.md
-
-<object data="publications/elephant.pdf" width="1000" height="1000" type='application/pdf'/>
+<object data="publications/elephant.pdf" width="2000" height="1000" type='application/pdf'/>
