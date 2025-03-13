@@ -57,7 +57,11 @@ sidebar:
 career-profile:
     title: 🚧 Under Construction 🚧
     summary: |
-      Carson is currently pursuing his Ph.D. under the supervision of Dr. Kevin Butler and Dr. Sara Rampazzi at the University of Florida. He earned his bachelor’s degree in physics from William & Mary in Williamsburg, Virginia. His current projects include electromagnetic control-flow verification for resource-constrained embedded systems, vulnerability analysis of DNA sequencers, and secure multiparty communication between satellites. His hobbies include watching movies (Star Wars), reading fantasy, and theme parks.
+      I am a Ph.D. student at the University of Florida under the supervision of Dr. Kevin Butler and Dr. Sara Rampazzi. 
+      
+      My research revolves around trustworthy computing and the security of embedded systems. My current projects include electromagnetic control-flow verification for resource-constrained embedded systems, vulnerability analysis of DNA sequencers, and secure multiparty communication between satellites. 
+      
+      Outside of research I enjoy watching movies, reading fantasy, and theme parks.
 education:
     title: Education
     info:
