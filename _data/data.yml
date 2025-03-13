@@ -4,7 +4,7 @@
 
 sidebar:
     position: right # position of the sidebar : left or right
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    #about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
@@ -208,15 +208,15 @@ publications:
     #   amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #   bibendum fringilla a eu lectus.
     papers:
-      - title: "Get in Researchers; We're Measuring Reproducibility\": A Reproducibility Study of Machine Learning Papers in Tier 1 Security Conferences"
-        link: "https://dl.acm.org/doi/10.1145/3576915.3623130"
-        authors: Daniel Olszewski, Allison Lu, Carson Stillman, Kevin Warren, Cole Kitroser, Alejandro Pascual, Divyajyoti Ukirde, Kevin Butler, and Patrick Traynor
-        conference: ACM CCS, 2023
-
       - title: "\"I Had Sort of a Sense that I Was Always Being Watched...Since I Was\": Examining Interpersonal Discomfort From Continuous Location-Sharing Applications"
         link: "https://dl.acm.org/doi/10.1145/3658644.3690342"
         authors:  Kevin Childs, Cassidy Gibson, Anna Crowder, Kevin Warren, Carson Stillman, Elissa M. Redmiles, Eakta Jain, Patrick Traynor, and Kevin R. B. Butler
         conference: ACM CCS, 2024
+        
+      - title: "\"Get in Researchers; We're Measuring Reproducibility\": A Reproducibility Study of Machine Learning Papers in Tier 1 Security Conferences"
+        link: "https://dl.acm.org/doi/10.1145/3576915.3623130"
+        authors: Daniel Olszewski, Allison Lu, Carson Stillman, Kevin Warren, Cole Kitroser, Alejandro Pascual, Divyajyoti Ukirde, Kevin Butler, and Patrick Traynor
+        conference: ACM CCS, 2023
 
       - title: "The Elephant in the Room: Software and Hardware Security Vulnerabilities of Portable Sequencing Devices (Talk/Poster)"
         link: "publications/elephant.pdf"
