@@ -57,7 +57,7 @@ sidebar:
 career-profile:
     title: 🚧 Under Construction 🚧
     summary: |
-      Carson is currently pursuing his Ph.D. under the supervision of Dr. Kevin Butler and Dr. Sara Rampazzi at the University of Florida. He earned his bachelor’s degree in physics from William & Mary in Williamsburg, Virginia. His current projects include signal analysis for electromagnetic control-flow attestation. His hobbies include watching movies, reading, and cooking.
+      Carson is currently pursuing his Ph.D. under the supervision of Dr. Kevin Butler and Dr. Sara Rampazzi at the University of Florida. He earned his bachelor’s degree in physics from William & Mary in Williamsburg, Virginia. His current projects include electromagnetic control-flow verification for resource-constrained embedded systems, vulnerability analysis of DNA sequencers, and secure multiparty communication between satellites. His hobbies include watching movies (Star Wars), reading fantasy, and theme parks.
 education:
     title: Education
     info:
@@ -212,7 +212,7 @@ publications:
         link: "https://dl.acm.org/doi/10.1145/3658644.3690342"
         authors:  Kevin Childs, Cassidy Gibson, Anna Crowder, Kevin Warren, Carson Stillman, Elissa M. Redmiles, Eakta Jain, Patrick Traynor, and Kevin R. B. Butler
         conference: ACM CCS, 2024
-        
+
       - title: "\"Get in Researchers; We're Measuring Reproducibility\": A Reproducibility Study of Machine Learning Papers in Tier 1 Security Conferences"
         link: "https://dl.acm.org/doi/10.1145/3576915.3623130"
         authors: Daniel Olszewski, Allison Lu, Carson Stillman, Kevin Warren, Cole Kitroser, Alejandro Pascual, Divyajyoti Ukirde, Kevin Butler, and Patrick Traynor
